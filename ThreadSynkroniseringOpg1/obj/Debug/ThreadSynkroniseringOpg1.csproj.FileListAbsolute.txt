@@ -1,0 +1,7 @@
+C:\Users\PC Morten\source\repos\ThreadSynkroniseringOpg1\ThreadSynkroniseringOpg1\bin\Debug\ThreadSynkroniseringOpg1.exe.config
+C:\Users\PC Morten\source\repos\ThreadSynkroniseringOpg1\ThreadSynkroniseringOpg1\bin\Debug\ThreadSynkroniseringOpg1.exe
+C:\Users\PC Morten\source\repos\ThreadSynkroniseringOpg1\ThreadSynkroniseringOpg1\bin\Debug\ThreadSynkroniseringOpg1.pdb
+C:\Users\PC Morten\source\repos\ThreadSynkroniseringOpg1\ThreadSynkroniseringOpg1\obj\Debug\ThreadSynkroniseringOpg1.csprojAssemblyReference.cache
+C:\Users\PC Morten\source\repos\ThreadSynkroniseringOpg1\ThreadSynkroniseringOpg1\obj\Debug\ThreadSynkroniseringOpg1.csproj.CoreCompileInputs.cache
+C:\Users\PC Morten\source\repos\ThreadSynkroniseringOpg1\ThreadSynkroniseringOpg1\obj\Debug\ThreadSynkroniseringOpg1.exe
+C:\Users\PC Morten\source\repos\ThreadSynkroniseringOpg1\ThreadSynkroniseringOpg1\obj\Debug\ThreadSynkroniseringOpg1.pdb
